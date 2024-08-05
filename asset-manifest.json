@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e5980da.css",
+    "main.js": "/static/js/main.daa7f09c.js",
+    "static/media/MastersBG.png": "/static/media/MastersBG.85091db772ba2a454f35.png",
+    "static/media/bg1.jpg": "/static/media/bg1.e2279068e663910cae28.jpg",
+    "static/media/bg3.jpg": "/static/media/bg3.a99507596b8229722261.jpg",
+    "static/media/bg2.jpg": "/static/media/bg2.ef27c3ede8f7d61161e7.jpg",
+    "static/media/bg4.jpg": "/static/media/bg4.5a334bc214e95ca29206.jpg",
+    "static/media/logo2.png": "/static/media/logo2.7d64d784b29e7dd9b54c.png",
+    "static/media/Manicure.png": "/static/media/Manicure.c2fcec77e890dc9a7f36.png",
+    "static/media/Pedicure.png": "/static/media/Pedicure.33b6ad1431ec44b537d4.png",
+    "index.html": "/index.html",
+    "main.1e5980da.css.map": "/static/css/main.1e5980da.css.map",
+    "main.daa7f09c.js.map": "/static/js/main.daa7f09c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e5980da.css",
+    "static/js/main.daa7f09c.js"
+  ]
+}
