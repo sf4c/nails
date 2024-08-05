@@ -1,2 +1,0 @@
-# nails
- КВARTИРА.NAILS
